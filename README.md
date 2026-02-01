@@ -9,3 +9,7 @@ The contorl system for the CC-CV mode is going to be implemented using OP-Amps a
           -Differential Amplifier,Comparator for PWM from triangle wave.
           -Mosfet driver(depending on the input voltage range taken into account)
   The project aims to bring these into a Single PCB starting with designing and validating the circuits in Ltspice and later using Kicad for schematic and PCB layout.
+
+The Op-Amp choosen is OPA197
+spice lib link:
+(https://www.ti.com/lit/zip/sboma34)
